@@ -22,24 +22,29 @@ Type ```pip install scipy``` and press enter.
 The installation process will begin and may take a few minutes to complete.
 Once the installation is finished, you can start using the SciPy library in your Python projects.
 
-3. Download the CRAFT tool file (CRAFT.zip) from the webpage:
+3) Pip install freesasa:
+To install FreeSASA, open your computer's command prompt.
+Enter the command "pip install freesasa," and press enter. 
+The installation process will commence and might require a few minutes to finalize. Once installed, you can readily incorporate the FreeSASA library into your Python projects.
 
-Visit the webpage Link where the CRAFT tool file is available for download.
-Click on the download link to download the CRAFT.zip file to your computer.
+4) Download the CRAFT tool file (CRAFT_cmd.zip) from the webpage:
+Visit the github CRAFT_cmd.zip folder where the CRAFT tool file is available for download.
+Click on the download link to download the CRAFT_cmd.zip file to your computer.
 
-4. Unzip the downloaded file CRAFT.zip:
+
+5. Unzip the downloaded file CRAFT_cmd.zip:
 
 Locate the CRAFT.zip file on your computer and right-click on it.
 Choose the option to "Extract" or "Extract all" to unzip the file.
 Choose a destination folder to extract the files to.
 
-5. Download PDB files into a PDB folder present inside the downloaded CRAFT folder:
+6. Download PDB files into a PDB folder present inside the downloaded CRAFT folder:
 
 Open the extracted CRAFT folder.
 Locate the PDB folder inside it.
 Download the PDB files that you want to analyze and save them to this PDB folder.
 
-6. Open the command prompt inside the CRAFT folder:
+7. Open the command prompt inside the CRAFT folder:
    
 Open the extracted CRAFT folder.
 Hold down the Shift key and right-click inside the folder.
