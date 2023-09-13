@@ -31,8 +31,7 @@ The installation process will commence and might require a few minutes to finali
 
 4. Download the CRAFT tool file (CRAFT_cmd.zip):
    
-Visit the github  CRAFT_cmd.zip folder where the CRAFT tool file is available for download.
-Click on the download link to download the CRAFT_cmd.zip file to your computer.
+Download the CRAFT_cmd.zip file from curretn github repository ().
 
 5. Unzip the downloaded file CRAFT_cmd.zip:
 
