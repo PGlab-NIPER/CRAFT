@@ -1,7 +1,7 @@
 # CRAFT_cmd
 CRAFT_cmd, a command-line version of the CRAFT tool that is designed for cavity prediction and the estimation of associated physicochemical properties.
 
-# CRAFT (Cavity Recognition Assisted by Flow Transfer algorithm)
+CRAFT (Cavity Recognition Assisted by Flow Transfer algorithm)
 
 * User Manual
 
