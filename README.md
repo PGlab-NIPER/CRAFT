@@ -1,8 +1,10 @@
 # CRAFT_cmd
-CRAFT_cmd, a command-line variant of the CRAFT tool, is designed for cavity prediction and the estimation of associated physicochemical properties.
-CRAFT 
-(Cavity Recognition Assisted by Flow Transfer algorithm)
-User Manual
+CRAFT_cmd, a command-line version of the CRAFT tool that is designed for cavity prediction and the estimation of associated physicochemical properties.
+
+#CRAFT (Cavity Recognition Assisted by Flow Transfer algorithm)
+
+*User Manual
+
 This user manual provides step-by-step instructions for installing Python, installing the SciPy library, downloading and unzipping the CRAFT tool files, downloading PDB files into the PDB folder, and running the algorithm on the command prompt. The algorithm provides identified cavities in descending order of volume of a cavity, along with information about cavity residue, residue number, atom number, atom type, chain, and fourteen physicochemical properties.
 
 1. Install Python:
