@@ -36,9 +36,7 @@ Hold down the Shift key and right-click inside the folder.
 Choose the option to "Open command window here" or "Open PowerShell window here".
 
 g) Use the command "Python main.py":
-Type ```bash
-python main.py
-``` in the command prompt and press enter.
+Type ```python main.py``` in the command prompt and press enter.
 The algorithm will begin and take user input to start the cavity scan inside the given protein.
 
 h) Follow the user instructions available on the command prompt:
