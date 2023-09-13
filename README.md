@@ -31,7 +31,7 @@ The installation process will commence and might require a few minutes to finali
 
 4. Download the CRAFT tool file (CRAFT_cmd.zip):
    
-Download the CRAFT_cmd.zip file from curretn github repository ().
+Download the CRAFT_cmd.zip file from curretn github repository (https://github.com/PGlab-NIPER/CRAFT/).
 
 5. Unzip the downloaded file CRAFT_cmd.zip:
 
