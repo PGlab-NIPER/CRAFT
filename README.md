@@ -30,6 +30,7 @@ Choose a destination folder to extract the files to.
 Open the extracted CRAFT folder.
 Locate the PDB folder inside it.
 Download the PDB files that you want to analyze and save them to this PDB folder.
+
 5. Open the command prompt inside the CRAFT folder:
 Open the extracted CRAFT folder.
 Hold down the Shift key and right-click inside the folder.
