@@ -22,15 +22,14 @@ Type ```pip install scipy``` and press enter.
 The installation process will begin and may take a few minutes to complete.
 Once the installation is finished, you can start using the SciPy library in your Python projects.
 
-3) Pip install freesasa:
+3. Pip install freesasa:
 To install FreeSASA, open your computer's command prompt.
 Enter the command "pip install freesasa," and press enter. 
 The installation process will commence and might require a few minutes to finalize. Once installed, you can readily incorporate the FreeSASA library into your Python projects.
 
-4) Download the CRAFT tool file (CRAFT_cmd.zip) from the webpage:
+4. Download the CRAFT tool file (CRAFT_cmd.zip) from the webpage:
 Visit the github CRAFT_cmd.zip folder where the CRAFT tool file is available for download.
 Click on the download link to download the CRAFT_cmd.zip file to your computer.
-
 
 5. Unzip the downloaded file CRAFT_cmd.zip:
 
@@ -50,12 +49,12 @@ Open the extracted CRAFT folder.
 Hold down the Shift key and right-click inside the folder.
 Choose the option to "Open command window here" or "Open PowerShell window here".
 
-7. Use the command "Python main.py":
+8. Use the command "Python main.py":
 
 Type ```python main.py``` in the command prompt and press enter.
 The algorithm will begin and take user input to start the cavity scan inside the given protein.
 
-8. Follow the user instructions available on the command prompt:
+9. Follow the user instructions available on the command prompt:
 
 Once the algorithm starts running, it will prompt you for the name of the PDB file that you want to analyze.
 Enter the name of the PDB file and press enter.
