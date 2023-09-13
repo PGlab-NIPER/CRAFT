@@ -23,19 +23,20 @@ The installation process will begin and may take a few minutes to complete.
 Once the installation is finished, you can start using the SciPy library in your Python projects.
 
 3. Pip install freesasa:
+
 To install FreeSASA, open your computer's command prompt.
-Enter the command '''pip install freesasa''' and press enter.
+Enter the command ```pip install freesasa``` and press enter.
  
 The installation process will commence and might require a few minutes to finalize. Once installed, you can readily incorporate the FreeSASA library into your Python projects.
 
-5. Download the CRAFT tool file (CRAFT_cmd.zip) from the webpage:
+4. Download the CRAFT tool file (CRAFT_cmd.zip):
    
-Visit the github CRAFT_cmd.zip folder where the CRAFT tool file is available for download.
+Visit the github  CRAFT_cmd.zip folder where the CRAFT tool file is available for download.
 Click on the download link to download the CRAFT_cmd.zip file to your computer.
 
-7. Unzip the downloaded file CRAFT_cmd.zip:
+5. Unzip the downloaded file CRAFT_cmd.zip:
 
-Locate the CRAFT.zip file on your computer and right-click on it.
+Locate the CRAFT_cmd.zip file on your computer and right-click on it.
 Choose the option to "Extract" or "Extract all" to unzip the file.
 Choose a destination folder to extract the files to.
 
