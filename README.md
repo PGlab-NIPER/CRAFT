@@ -5,7 +5,7 @@ CRAFT
 User Manual
 This user manual provides step-by-step instructions for installing Python, installing the SciPy library, downloading and unzipping the CRAFT tool files, downloading PDB files into the PDB folder, and running the algorithm on the command prompt. The algorithm provides identified cavities in descending order of volume of a cavity, along with information about cavity residue, residue number, atom number, atom type, chain, and fourteen physicochemical properties.
 
-* a) Install Python:
+a) Install Python:
 Visit the official Python website at https://www.python.org/downloads/
 Choose the appropriate version of Python for your operating system and click on the download link.
 Run the installer once the download is complete.
