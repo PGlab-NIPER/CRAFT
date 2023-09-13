@@ -40,7 +40,7 @@ Choose the option to "Open command window here" or "Open PowerShell window here"
 Type ```python main.py``` in the command prompt and press enter.
 The algorithm will begin and take user input to start the cavity scan inside the given protein.
 
-6. Follow the user instructions available on the command prompt:
+7. Follow the user instructions available on the command prompt:
 Once the algorithm starts running, it will prompt you for the name of the PDB file that you want to analyze.
 Enter the name of the PDB file and press enter.
 The CRAFT tool provides information about the identified cavities in the PDB file, along with information about the cavity residue, residue number, atom number, atom type, chain, and fourteen physicochemical properties of a cavity.
