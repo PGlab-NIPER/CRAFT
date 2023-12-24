@@ -1,0 +1,247 @@
+ALA
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+END
+ARG
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1
+CG  CD  1
+CD  NE  1
+NE  CZ  1
+CZ  NH1 2
+CZ  NH2 1
+END
+ASN
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1
+CG  OD1 2
+CG  ND2 1
+END
+ASP
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1
+CG  OD1 2
+CG  OD2 1
+END
+CYS
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  SG  1
+END
+GLN
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1
+CG  CD  1
+CD  OE1 2
+CD  NE2 1
+END
+GLU
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1
+CG  CD  1
+CD  OE1 2
+CD  OE2 1
+END
+GLY
+N   CA  1
+CA  C   1
+C   O   2
+END
+HIS
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1
+CG  ND1 1  
+CG  CD2 2  
+ND1 CE1 1  
+CD2 NE2 1  
+NE2 CE1 2
+END  
+ILE
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG1 1
+CB  CG2 1
+CG1 CD1 1
+END
+LEU
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1
+CG  CD1 1
+CG  CD2 1
+END
+LYS
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1
+CG  CD  1
+CD  CE  1
+CE  NZ  1
+END
+MET
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1
+CG  SD  1
+SD  CE  1
+END
+PHE
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1
+CG  CD1 1
+CG  CD2 2
+CD1 CE1 2
+CD2 CE2 1
+CE1 CZ  1
+CZ  CE2 2
+END
+PRO
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1  
+CG  CD  1  
+CD  N   1
+END
+SER
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  OG  1
+END
+THR
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  OG1 1
+CB  CG2 1
+END
+TRP
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1
+CG  CD1 2
+CG  CD2 1
+CD1 NE1 1
+NE1 CE2 1
+CE2 CD2 2
+CE2 CZ2 1
+CD2 CE3 1
+CE3 CZ3 2
+CZ2 CH2 2
+CZ3 CH2 1
+END
+TYR
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG  1
+CG  CD1 1
+CG  CD2 2
+CD1 CE1 2
+CD2 CE2 1
+CE1 CZ  1
+CE2 CZ  2
+CZ  OH  1
+END
+VAL
+N   CA  1
+CA  C   1
+C   O   2
+CA  CB  1
+CB  CG1 1
+CB  CG2 1
+END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
